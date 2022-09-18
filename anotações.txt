@@ -1,0 +1,1 @@
+1 - Recriar a estrutura do site pensando em como fazer de forma que fique sincrona 
